@@ -49,6 +49,6 @@ You are welcome to:
 
 ## Matrix maintenance plan
 
-- We plan to review and update the matrix every 12 months, including the review of PR and issues
+- We plan to review and update the matrix regularly, including the review of PR and issues
 - We plan to add a self-assessment tool to the matrix
 - We plan to add a roadmap for Angular engineers
